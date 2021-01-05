@@ -1,3 +1,4 @@
-./Python/*
-./practice/*
-./C++/geeks/.vscode
+Python/
+practice/
+C++/geeks/.vscode/
+C++/.vscode/
